@@ -1,3 +1,18 @@
+# Desafio Frontend RandomQuote
+![Captura de Tela (203)](https://github.com/PauloAquarius0299/challenge-random-quotes/assets/114706743/f32fe686-f621-407e-839f-1d745db44072)
+
+Este projeto consiste em renderizar uma base de API fornecida pelo desafio para exibir os dados no cliente (navegador). A interface do usuário foi estilizada usando Tailwind CSS, uma biblioteca de utilitários de estilo CSS.
+
+## Documento API
+For more information about the Quote Garden API and its endpoints, refer to the ![API DOCS](https://prathameshmore.online/QuoteGarden/)
+## Ferramentas
+* Nextjs
+* React
+* TypeScript
+* Tailwindcss
+-- \\ --
+# Next
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
